@@ -9,12 +9,12 @@ const CONFIG = {
     linkedin: "mostafaneegm",
     github: "mostafaneegm",
   },
-  /*projects: [
+  projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `mostafa-log`,
+      href: "https://github.com/mostafaneegm",
     },
-  ],*/
+  ],
   // blog setting (required)
   blog: {
     title: "mostafa-log",
@@ -22,7 +22,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://mostafa-log.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
